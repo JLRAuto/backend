@@ -1,1 +1,0 @@
-// Site context middleware placeholder
